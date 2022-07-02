@@ -1,4 +1,5 @@
 # Projet Intelligence artificiel
+![](https://repository-images.githubusercontent.com/467515753/ae19ba41-f400-4e79-bebf-a0a7721f65cf)
 ## Français
 ### Contexte
 L'entreprise HumanForYou, a fait appel à nous pour connaitre les raisons du turn-over qui est d'environ 15% chaque année. Ce turn-over pose plusieurs problèmes pour l'entreprise :
